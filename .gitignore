@@ -1,2 +1,3 @@
 for.log
 *.log
+!config.log
