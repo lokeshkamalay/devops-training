@@ -1,5 +1,6 @@
 #!/bi/sh
 clear
+#Printing numbers from 1 to 10
 #read -p "Enter a number: " num
 echo "Printing from 1 to 10"
 num=10
